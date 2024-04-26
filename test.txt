@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the Main Branch
+=======
+This is a file from Feature branch
+>>>>>>> feature
